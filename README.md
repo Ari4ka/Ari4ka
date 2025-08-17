@@ -6,7 +6,4 @@ UQCxy6oj_nchQ2OOyjTSuRE8Bq0kN_78ZmD4IUkp9gPabcOJ
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Ari4ka/Ari4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Rev eth wallet 0x15916e706DD65Eb0Ba3f3c47dF01202D31DC8Ff9
