@@ -7,3 +7,5 @@ UQCxy6oj_nchQ2OOyjTSuRE8Bq0kN_78ZmD4IUkp9gPabcOJ
 - ⚡ Fun fact: ...
 
  Rev eth wallet 0x15916e706DD65Eb0Ba3f3c47dF01202D31DC8Ff9
+
+revolut.me/ari4ka
